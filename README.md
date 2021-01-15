@@ -6,5 +6,4 @@ Last modified: 2020-01-15
 
 | File      | Description |
 | ----------- | ----------- |
-| Index.html  | Main website page       |
-| Paragraph   | Text        |
+| Index.html  | Main website page |
